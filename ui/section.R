@@ -12,7 +12,7 @@ tags$section(id = "overview",
                             h2("Stolpersteine K\u00F6ln"),
    
    h6(tags$br(),"Kein Vergeben kein Vergessen"),
-   h6("Disclaimer:", tags$br(), "Bitte beachten Sie, dass die Datenbank keineswegs eine Aufstellung aller Opfer des Nationalsozialismus in K\u00F6ln ist!",tags$a(href="https://museenkoeln.de/ns-dokumentationszentrum/default.aspx?s=1194", "(Link to article and table)"),))
+   h6("Disclaimer:", tags$br(), "Bitte beachten Sie, dass die Datenbank keineswegs eine Aufstellung aller Opfer des Nationalsozialismus in K\u00F6ln ist!",tags$a(href="https://museenkoeln.de/ns-dokumentationszentrum/default.aspx?s=1194", "(Link zur Datenbasis)"),))
 ))
 
 
