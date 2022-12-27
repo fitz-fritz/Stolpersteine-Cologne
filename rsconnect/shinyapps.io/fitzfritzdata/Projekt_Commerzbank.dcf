@@ -1,0 +1,14 @@
+name: Projekt_Commerzbank
+title: Projekt_Commerzbank
+username:
+account: fitzfritzdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4460676
+bundleId: 4950079
+url: https://fitzfritzdata.shinyapps.io/Projekt_Commerzbank/
+when: 1629623980.85054
+lastSyncTime: 1629623980.85054
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ui/.Rhistory
