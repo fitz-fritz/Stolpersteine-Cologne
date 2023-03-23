@@ -8,10 +8,10 @@ tags$section(id = "overview",
  absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
                draggable = TRUE, top = 10.5, left = 53 , right = "auto", bottom = "auto", opacity = 0.6,
                width = "20.5%", height = "auto", 
-  h6("A Visualisation by FitzFritzData", tags$a(href="https://twitter.com/fitzfritzdata", icon("twitter")), tags$a(href="https://www.linkedin.com/in/pascal-frick/", icon("linkedin"), tags$a(href="https://www.youtube.de", icon("linkedin") icon("github")),
+  h6("A Visualisation by FitzFritzData", tags$a(href="https://twitter.com/fitzfritzdata", icon("twitter")), tags$a(href="https://linkedin.com/in/pascalfrick", icon("linkedin")), tags$a(href="https://github.com/fitz-fritz", icon("github")),
                             h2("Stolpersteine K\u00F6ln"),
    
-   h6(tags$br(),"Kein Vergeben kein Vergessen"),
+   h6(tags$br(),"Kein Vergeben, kein Vergessen"),
    h6("Disclaimer:", tags$br(), "Bitte beachten Sie, dass die Datenbank keineswegs eine Aufstellung aller Opfer des Nationalsozialismus in K\u00F6ln ist!",tags$a(href="https://museenkoeln.de/ns-dokumentationszentrum/default.aspx?s=1194", "(Link zur Datenbasis)"),))
 ))
 
