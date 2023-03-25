@@ -11,7 +11,7 @@ tags$section(id = "overview",
   h6("A Visualisation by FitzFritzData", tags$a(href="https://twitter.com/fitzfritzdata", icon("twitter")), tags$a(href="https://linkedin.com/in/pascalfrick", icon("linkedin")), tags$a(href="https://github.com/fitz-fritz", icon("github")),
                             h2("Stolpersteine K\u00F6ln"),
    
-   h6(tags$br(),"Kein Vergeben, kein Vergessen"),
+   h6(tags$br(),""),
    h6("Disclaimer:", tags$br(), "Bitte beachten Sie, dass die Datenbank keineswegs eine Aufstellung aller Opfer des Nationalsozialismus in K\u00F6ln ist!",tags$a(href="https://museenkoeln.de/ns-dokumentationszentrum/default.aspx?s=1194", "(Link zur Datenbasis)"),))
 ))
 
